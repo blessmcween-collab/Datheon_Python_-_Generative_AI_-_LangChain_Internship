@@ -1,0 +1,21 @@
+Sam Patel
+sam.patel@example.com · +44 7700 900456 · London
+
+Profile
+Second-year computing student interested in data and backend development.
+
+Skills
+Python, Pandas, SQL, Git, FastAPI, pandas, Docker
+
+Experience
+Python Programming Intern - Example Tech Ltd (remote)
+July 2026 - September 2026
+- Built a CLI tool that cleans CSV exports and produces summary reports
+- Wrote unit tests with pytest, reaching 85% coverage
+
+Retail Assistant - Corner Shop
+March 2024 - present
+- Handled stock checks and end-of-day cash reports
+
+Education
+BSc Computing Science, Coventry University London - expected 2028

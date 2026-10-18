@@ -1,0 +1,15 @@
+BrightByte IT Services
+Invoice No: BB-2026-0457
+Invoice date: 14/10/2026
+Payment due: 13/11/2026
+
+Billed to: Coventry Student Union
+
+Item                         Qty   Unit price    Amount
+Laptop repair (labour hrs)    3     £35.00       £105.00
+SSD 1TB                       2     £62.50       £125.00
+Data backup service           1     £20.00        £20.00
+
+Subtotal: £250.00
+VAT (20%): £50.00
+TOTAL DUE: £300.00
